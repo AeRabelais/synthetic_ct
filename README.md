@@ -1,5 +1,5 @@
 # [Improving Tuberculosis (TB) Prediction using Synthetically Generated Computed Tomography (CT) Images](https://arxiv.org/abs/2109.11480)
-Ashia Lewis, Evanjelin Mahmoodi, Yuyue Zhou, Megan Coffee, Elena Sizikova
+*Ashia Lewis, Evanjelin Mahmoodi, Yuyue Zhou, Megan Coffee, Elena Sizikova*
 
 Herein lies the system for the analysis of synthetic CT scans simulating various forms of tuberculosis, as used in the paper. The data first allows for the processing of x-rays into synthetic CT scans, then includes the codebase for (1) the identification of tuberculosis and (2) the classification of modes of tuberculosis. 
 
