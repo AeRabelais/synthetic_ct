@@ -7,6 +7,8 @@ Herein lies the system for the analysis of synthetic CT scans simulating various
 
 ### Tuberculosis Identification Evaluation
 
+<img src="https://github.com/AeRabelais/synthetic_ct/blob/main/images/tb_classification.PNG" width=50% height=50%>
+
 ![Disease Identification Evaluation](/images/tb_identification.PNG | width = 250)
 
 ### Tuberculosis Classification Evaluation
