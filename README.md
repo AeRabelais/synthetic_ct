@@ -7,17 +7,15 @@ Herein lies the system for the analysis of synthetic CT scans simulating various
 
 **Tuberculosis Identification Evaluation**
 
-<img src="https://github.com/AeRabelais/synthetic_ct/blob/main/images/tb_classification.PNG" width=25% height=25%>
-
-![Disease Identification Evaluation](/images/tb_identification.PNG | width = 250)
+<img src="https://github.com/AeRabelais/synthetic_ct/blob/main/images/tb_identification.PNG" width=25% height=25%>
 
 ### Tuberculosis Classification Evaluation
 
-![Disease Classification](/images/tb_classification.PNG)
+<img src="https://github.com/AeRabelais/synthetic_ct/blob/main/images/tb_classification.PNG" width=25% height=25%>
 
 ### Distinguishing TB vs TB Sequelae
 
-![Classification of TB vs TB Sequelae](/images/tb_tbseq.PNG)
+<img src="https://github.com/AeRabelais/synthetic_ct/blob/main/images/tb_tbseq.PNG" width=25% height=25%>
 
 ## Data Demo
 
