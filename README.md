@@ -5,7 +5,17 @@ Herein lies the system for the analysis of synthetic CT scans simulating various
 
 ## Quantitative Results 
 
-Add image of result tables
+### Tuberculosis Identification Evaluation
+
+![Disease Identification Evaluation](/images/tb_identification.PNG)
+
+### Tuberculosis Classification Evaluation
+
+![Disease Classification](/images/tb_classification.PNG)
+
+### Distinguishing TB vs TB Sequelae
+
+![Classification of TB vs TB Sequelae](/images/tb_tbseq.PNG)
 
 ## Data Demo
 
