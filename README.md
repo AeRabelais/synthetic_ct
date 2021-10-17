@@ -12,7 +12,7 @@ Herein lies the system for the analysis of synthetic CT scans simulating various
 | X-Ray (PA)     | 0.80     |
 | X-Ray (PA + L) | 0.80     |
 |                |Full-CT| 2 Slices|
-|                |       |         |
+|CT              |Test1  |Test2    |
 
 ![Disease Identification Evaluation](/images/tb_identification.PNG)
 
