@@ -41,7 +41,7 @@ Ashia Lewis and Evanjelin Mahmoodi were supported by the NYU Center for Data Sci
 
 ## TO-DO
 
-- [ ] Add results table /insight
+- [X] Add results table /insight
 - [ ] Update the data demo
 - [ ] Add the code, clean and commented!
 - [ ] Add info blurb about access to datasets.
