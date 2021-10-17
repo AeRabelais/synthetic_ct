@@ -9,11 +9,11 @@ Herein lies the system for the analysis of synthetic CT scans simulating various
 
 <img src="https://github.com/AeRabelais/synthetic_ct/blob/main/images/tb_identification.PNG" width=25% height=25%>
 
-### Tuberculosis Classification Evaluation
+**Tuberculosis Classification Evaluation**
 
 <img src="https://github.com/AeRabelais/synthetic_ct/blob/main/images/tb_classification.PNG" width=25% height=25%>
 
-### Distinguishing TB vs TB Sequelae
+**Distinguishing TB vs TB Sequelae**
 
 <img src="https://github.com/AeRabelais/synthetic_ct/blob/main/images/tb_tbseq.PNG" width=25% height=25%>
 
