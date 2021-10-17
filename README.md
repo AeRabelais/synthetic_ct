@@ -14,7 +14,7 @@ Give a useful walkthrough of how all the pieces of data fit together/how they're
 ## Citation 
 
 The following citation can be used.
-
+```
   @misc{Vo21LOD,
     title     = {Improving Tuberculosis (TB) Prediction using Synthetically Generated Computed Tomography (CT) Images},
     author    = {Lewis, Ashia and Mahmoodi, Evanjelin and Zhou, Yuyue and Coffee, Megan and Sizikova, Elena},
@@ -23,6 +23,7 @@ The following citation can be used.
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+```
 
 ## Acknowledgments
 
