@@ -5,7 +5,7 @@ Herein lies the system for the analysis of synthetic CT scans simulating various
 
 ## Quantitative Results 
 
-** Tuberculosis Identification Evaluation **
+**Tuberculosis Identification Evaluation**
 
 <img src="https://github.com/AeRabelais/synthetic_ct/blob/main/images/tb_classification.PNG" width=17% height=17%>
 
