@@ -7,14 +7,7 @@ Herein lies the system for the analysis of synthetic CT scans simulating various
 
 ### Tuberculosis Identification Evaluation
 
-| Data           | Accuracy |
-|----------------|----------|
-| X-Ray (PA)     | 0.80     |
-| X-Ray (PA + L) | 0.80     |
-|                |Full-CT| 2 Slices|
-|CT              |Test1  |Test2    |
-
-![Disease Identification Evaluation](/images/tb_identification.PNG)
+![Disease Identification Evaluation](/images/tb_identification.PNG = 250x250)
 
 ### Tuberculosis Classification Evaluation
 
